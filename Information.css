@@ -1,0 +1,14 @@
+.pick-one {
+padding-left: 160px;
+font-size: 20px;
+width: 300px;
+font-family: tahoma, arial;
+}
+
+  /* Display 0px to 767px */
+
+  @media (max-width: 767px) {
+  .pick-one {
+  width: 110px;
+  }
+  }

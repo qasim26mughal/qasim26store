@@ -1,0 +1,557 @@
+/*  Body  */
+
+.body {
+background-color: wheat;
+margin-bottom: 20px;
+}
+
+/*  Customer Information container  */
+
+.customer-information-container {
+margin-bottom: 40px;
+}
+
+/*  Customer  */
+
+.customer {
+font-size: 15px;
+font-family: arial, tahoma;
+margin-bottom: 15px;
+color: black;
+}
+
+/*  First name container  */
+
+.first-name-container {
+margin-bottom: 15px;
+}
+
+/*  First name  */
+
+.first-name {
+font-size: 15px;
+font-family: arial, tahoma;
+color: black;
+}
+
+/*  Type first name  */
+
+.type-first-name {
+width: 100%;
+min-height: 35px;
+margin-left: 1px;
+padding-left: 13px;
+padding-right: 13px;
+font-size: 15px;
+font-family: Arial, tahoma;
+background-color: transparent;
+color: black;
+border: 1px solid black;
+border-radius: 3px;
+outline: none;
+}
+
+/*  Middle name container  */
+
+.middle-name-container {
+margin-bottom: 15px;
+}
+
+/*  Middle name  */
+
+.middle-name {
+font-size: 15px;
+font-family: arial, tahoma;
+color: black;
+margin-bottom: 3px;
+}
+
+/*  Type middle name  */
+
+.type-middle-name {
+width: 100%;
+min-height: 35px;
+margin-left: 1px;
+padding-left: 13px;
+padding-right: 13px;
+font-size: 15px;
+font-family: Arial, tahoma;
+background-color: transparent;
+color: black;
+border: 1px solid black;
+border-radius: 3px;
+outline: none;
+}
+
+/*  last name container  */
+
+.last-name-container {
+margin-bottom: 15px;
+}
+
+/*  Last name  */
+
+.last-name {
+font-size: 15px;
+font-family: arial, tahoma;
+color: black;
+}
+
+/*  Type last name  */
+
+.type-last-name {
+width: 100%;
+min-height: 35px;
+margin-left: 1px;
+padding-left: 13px;
+padding-right: 13px;
+font-size: 15px;
+font-family: Arial, tahoma;
+background-color: transparent;
+color: black;
+border: 1px solid black;
+border-radius: 3px;
+outline: none;
+}
+
+/*  Phone number container  */
+
+.phone-number-container {
+margin-bottom: 15px;
+}
+
+/*  Phone number  */
+
+.phone-number {
+font-size: 15px;
+font-family: arial, tahoma;
+color: black;
+margin-bottom: 3px;
+}
+
+/*  Type phone number  */
+
+.type-phone-number {
+width: 100%;
+min-height: 35px;
+margin-left: 1px;
+padding-left: 13px;
+padding-right: 13px;
+font-size: 15px;
+font-family: Arial, tahoma;
+background-color: transparent;
+color: black;
+border: 1px solid black;
+border-radius: 3px;
+outline: none;
+}
+
+/*  Contact email  */
+
+.email {
+font-size: 15px;
+font-family: arial, tahoma;
+color: black;
+margin-bottom: 3px;
+}
+
+/*  Type contact email  */
+
+.type-email {
+width: 100%;
+min-height: 35px;
+margin-left: 1px;
+padding-left: 13px;
+padding-right: 13px;
+font-size: 15px;
+font-family: Arial, tahoma;
+background-color: transparent;
+color: black;
+border: 1px solid black;
+border-radius: 3px;
+outline: none;
+}
+
+/*  Address information container  */
+
+.address-information-container {
+margin-bottom: 40px;
+}
+
+/*  Delivery  */
+
+.delivery {
+font-size: 15px;
+font-family: arial, tahoma;
+margin-bottom: 15px;
+}
+
+/*  Country United States  */
+
+.country {
+font-size: 15px;
+font-family: arial, tahoma;
+color: black;
+margin-bottom: 15px;
+}
+
+/*  Delivery address container  */
+
+.delivery-address-container {
+margin-bottom: 15px;
+}
+
+/*  Delivery address  */
+
+.delivery-address {
+font-size: 15px;
+font-family: arial, tahoma;
+color: black;
+}
+
+/*  Type delivery address  */
+
+.type-delivery-address {
+width: 100%;
+min-height: 35px;
+margin-left: 1px;
+padding-left: 13px;
+padding-right: 13px;
+font-size: 15px;
+font-family: Arial, tahoma;
+background-color: transparent;
+color: black;
+border: 1px solid black;
+border-radius: 3px;
+outline: none;
+}
+
+/*  State/Province container  */
+
+.state-province-container {
+margin-bottom: 15px;
+}
+
+/*  State/Province  */
+
+.state-province {
+font-size: 15px;
+font-family: arial, tahoma;
+color: black;
+}
+
+/*  Type State/Province  */
+
+.type-state-province {
+width: 100%;
+min-height: 35px;
+margin-left: 1px;
+padding-left: 13px;
+padding-right: 13px;
+font-size: 15px;
+font-family: Arial, tahoma;
+background-color: transparent;
+color: black;
+border: 1px solid black;
+border-radius: 3px;
+outline: none;
+}
+
+/*  City container  */
+
+.city-container {
+margin-bottom: 15px;
+}
+
+/*  City  */
+
+.city {
+font-size: 15px;
+font-family: arial, tahoma;
+color: black;
+margin-bottom: 3px;
+}
+
+/*  Type City  */
+
+.type-city {
+width: 100%;
+min-height: 35px;
+margin-left: 1px;
+padding-left: 13px;
+padding-right: 13px;
+font-size: 15px;
+font-family: Arial, tahoma;
+background-color: transparent;
+color: black;
+border: 1px solid black;
+border-radius: 3px;
+outline: none;
+}
+
+/*  City postal code container  */
+
+.city-postal-code-container {
+margin-bottom: 15px;
+}
+
+/*  City postal code  */
+
+.city-postal-code {
+font-size: 15px;
+font-family: arial, tahoma;
+color: black;
+margin-bottom: 3px;
+}
+
+/*  Type City postal code  */
+
+.type-city-postal-code {
+width: 100%;
+min-height: 35px;
+margin-left: 1px;
+padding-left: 13px;
+padding-right: 13px;
+font-size: 15px;
+font-family: Arial, tahoma;
+background-color: transparent;
+color: black;
+border: 1px solid black;
+border-radius: 3px;
+outline: none;
+}
+
+/*  Payment container  */
+
+.payment-information-container {
+margin-bottom: 20px;
+}
+
+/*  Payment  */
+
+.payment {
+font-size: 15px;
+font-family: arial, tahoma;
+margin-bottom: 15px;
+color: black;
+}
+
+/*  VISA and MASTERCARD Credit/Debit card  */
+
+.visa-and-mastercard {
+font-size: 15px;
+font-family: arial, tahoma;
+margin-bottom: 15px;
+color: black;
+}
+
+/*  Name on Credit/Debit card container  */
+
+.name-on-credit-debit-card-container {
+margin-bottom: 15px;
+}
+
+/*  Name on Credit/Debit card  */
+
+.name-on-credit-debit-card {
+font-size: 15px;
+font-family: Arial, tahoma;
+color: black;
+}
+
+/*  Type Name on Credit/Debit card  */
+
+.type-name-on-credit-debit-card {
+width: 100%;
+min-height: 35px;
+margin-left: 1px;
+padding-left: 13px;
+padding-right: 13px;
+font-size: 15px;
+font-family: Arial, tahoma;
+background-color: transparent;
+color: black;
+border: 1px solid black;
+border-radius: 3px;
+outline: none;
+}
+
+/*  Card number container  */
+
+.card-numbers-container {
+margin-bottom: 15px;
+}
+
+/*  Card number  */
+
+.card-numbers {
+font-size: 15px;
+font-family: Arial, tahoma;
+}
+
+/*  Type card number  */
+
+.type-card-numbers {
+width: 100%;
+min-height: 35px;
+font-size: 15px;
+font-family: Arial, tahoma;
+background-color: transparent;
+outline: none;
+border: 1px solid black;
+border-radius: 3px;
+margin-left: 1px;
+padding-left: 13px;
+padding-right: 13px;
+}
+
+/*  Card expiry month and year container  */
+
+.month-year-expiry-information {
+margin-bottom: 15px;
+}
+
+/*  Card expiry month and year  */
+
+.expiry-month-and-year {
+font-size: 15px;
+font-family: Arial, tahoma;
+margin-bottom: 3px;
+}
+
+/*  Type Card expiry month and year  */
+
+.type-mm-yy {
+width: 100%;
+min-height: 35px;
+font-size: 15px;
+font-family: Arial, tahoma;
+background-color: transparent;
+outline: none;
+border: 1px solid black;
+border-radius: 3px;
+margin-left: 1px;
+padding-left: 13px;
+padding-right: 13px;
+}
+
+/*  Card CVV container  */
+
+.cvv-information {
+margin-bottom: 15px;
+}
+
+/*  Card CVV  */
+
+.cvv {
+font-size: 15px;
+font-family: Arial, tahoma;
+}
+
+/*  Type Card CVV  */
+
+.type-cvv {
+width: 100%;
+min-height: 35px;
+font-size: 15px;
+font-family: Arial, tahoma;
+background-color: transparent;
+outline: none;
+border: 1px solid black;
+border-radius: 3px;
+margin-left: 1px;
+padding-left: 13px;
+padding-right: 13px;
+}
+
+/*  Verify button container  */
+
+.confirm-container {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+/*  Verify button  */
+
+.confirm {
+width: 100%;
+min-height: 35px;
+margin-left: 29px;
+font-size: 15px;
+font-family: arial, tahoma;
+font-weight: bold;
+cursor: pointer;
+background-color: rgb(14, 14, 14);
+color: white;
+border: 1px solid rgb(14, 14, 14);
+border-radius: 3px;
+}
+.confirm:hover {
+background-color: rgba(255, 255, 255, 0.923);
+color: rgb(14, 14, 14);
+border: 1px solid rgb(14, 14, 14);
+cursor: pointer;
+}
+
+  /*  Screen width 0px to 480px  */
+
+  @media (max-width: 480px) {
+  .body{
+  margin-top: 50px;
+  margin-left: -1px;
+  margin-right: 29px;
+  padding-left: 2%;
+  padding-right: 2%;
+  }
+  .confirm {
+  margin-left: 28px;
+  }
+  }
+
+    /*  Screen width 481px to 767px  */
+
+    @media (min-width: 481px) and (max-width: 767px) {
+    .body{
+    margin-top: 50px;
+    margin-left: -1px;
+    margin-right: 29px;
+    padding-left: 7%;
+    padding-right: 7%;
+    }
+    .verify {
+    margin-left: 28px;
+    }
+    }
+
+      /*  Screen width 768px to 1023px  */
+
+      @media (min-width: 768px) and (max-width: 1023px) {
+      .body {
+      margin-left: 149px;
+      margin-right: 29px;
+      padding-left: 18%;
+      padding-right: 18%;
+      }
+      }
+
+        /*  Screen width 1024px to 1439px  */
+
+        @media (min-width: 1024px) and (max-width: 1439px) {
+        .body {
+        margin-left: 169px;
+        margin-right: 29px;
+        padding-left: 20%;
+        padding-right: 20%;
+        }
+        }
+
+          /*  Screen width 1440px to max  */
+
+          @media (min-width: 1440px) {
+          .body {
+          margin-left: 169px;
+          margin-right: 29px;
+          padding-left: 20%;
+          padding-right: 20%;
+          }
+          }
