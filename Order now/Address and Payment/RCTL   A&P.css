@@ -289,24 +289,24 @@ border-radius: 3px;
 outline: none;
 }
 
-/*  City postal code container  */
+/*  Postal code container  */
 
-.city-postal-code-container {
+.postal-code-container {
 margin-bottom: 15px;
 }
 
-/*  City postal code  */
+/*  Postal code  */
 
-.city-postal-code {
+.postal-code {
 font-size: 15px;
 font-family: arial, tahoma;
 color: black;
 margin-bottom: 3px;
 }
 
-/*  Type City postal code  */
+/*  Type postal code  */
 
-.type-city-postal-code {
+.type-postal-code {
 width: 100%;
 min-height: 35px;
 margin-left: 1px;
